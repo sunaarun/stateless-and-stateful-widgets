@@ -1,6 +1,9 @@
 # stateless_stateful
 
-A new Flutter project.
+
+A new Flutter project that shows what is the difference between **StatelessWidget** and **StatefulWidget**.
+You can watch the episode on YouTube : 
+https://youtu.be/ZNRDSzKACzw
 
 ## Getting Started
 
